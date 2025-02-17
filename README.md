@@ -29,14 +29,14 @@
 | Design | طراحی |
 | Designer | طراح |
 | Roadmap | نقشه‌راه |
-| Milestone | ؟ |
+| Milestone | مرحله کلیدی |
 | Public Relations | روابط عمومی |
 | Back-end | سمت سرور |
 | Front-end | سمت کاربر |
 | Pull Request | درخواست ادغام |
 | Merge | یکی سازی |
 | Server | ؟ |
-| Platform | ؟ |
+| Platform | بستر |
 | Infra | زیرساخت |
 | Data Science | علم داده |
 | Data Scientist | دانشمند داده |
